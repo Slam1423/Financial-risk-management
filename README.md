@@ -1,2 +1,2 @@
 # Financial-risk-management
-About pricing options, computing Greeks, Monte Carlo Simulation.
+Pricing options, computing Greeks, Monte Carlo Simulation.
